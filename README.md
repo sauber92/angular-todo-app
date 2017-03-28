@@ -1,2 +1,8 @@
-# standup
-애자일 프랙티스 standup 할 때 아이스브레이킹에 사용되는 IT기술에 관련된 주제를 나눌 수 있는 아티클들을 공유하는 소셜미디어 프로젝트
+# angular-todo-app
+
+인프런 "AngularJS 기본 개념과 To-do 앱 만들기 실습-앵귤러 강좌"를 듣고 만든 Todo App  
+
+#### 사용기술
+
+* angularjs@1.5.8  
+* bootstrap@4.0.5  
